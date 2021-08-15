@@ -1,5 +1,5 @@
 # react-with-typescript
-
+![react-with-typescript-img](https://user-images.githubusercontent.com/86170894/129480770-ea272fa8-e909-4c7b-b3d5-fe3720288849.png)
 
 ## 💻 Descrição
 <p>O projeto foi construído para praticar typescript aplicado em React</p> 
